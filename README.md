@@ -1,4 +1,4 @@
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=K4K4DU&theme=highcontrast&show_icons=true&count_private=true)
 # Project Title
 
 This is my Readme
