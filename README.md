@@ -1,6 +1,9 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=K4K4DU&layout=compact)
 
 
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name&show_owner=true)](https://github.com/K4K4DU/repo-name)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=K4K4DU&theme=highcontrast&show_icons=true&count_private=true)
 # Project Title
 
