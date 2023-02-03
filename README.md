@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**K4K4DU/K4K4DU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Project Title
 
-Here are some ideas to get you started:
+A brief description of what this project does and who it's for
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+#### Who are you?
+
+Hi there, i am K4K4DU. Yes like the bird. I am a System engineer apprentice and i use this Github account for my personal and my school projects. Feel free to look at them (@_@)
+
+#### What are you learning currently?
+
+I started Programming a few Weeks ago, starting with the basics in JS. Currently i am stuck with C++ for getting depressed. I am thinking to change my curretn language to either golang or rust -(0.0)-
+
+
+## Authors
+
+- [@K4K4DU](https://www.github.com/K4K4DU)
+
+### Friends
+
+- [@sne4ker](https://www.github.com/sne4ker)
+- [@w0lfzk1n](https://www.github.com/w0lfzk1n)
+
